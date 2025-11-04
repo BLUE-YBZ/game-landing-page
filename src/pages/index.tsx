@@ -17,6 +17,10 @@ export default function Home() {
 
       <Header />
 
+      <div>
+        遥望齐州九点烟，一泓海水杯中泻
+      </div>
+
       {/* About section */}
       <AboutSection />
 
